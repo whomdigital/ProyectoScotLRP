@@ -1314,7 +1314,7 @@ select {
 .bg_image--9 {
     background-image: url(img/bg/bg-image-9.jpg);
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: contain;
     background-position: center center
 }
 
@@ -15071,7 +15071,7 @@ a.moredetails-btn.yellow-color-2:hover {
 .bg_image--10,
 .bg_image--9 {
     background-repeat: no-repeat;
-    background-attachment: fixed;
+    background-attachment: absolute;
     background-position: center
 }
 
@@ -49627,7 +49627,7 @@ body.template-color-23 .messonry-button button.is-checked span.filter-text {
 }
 
 body.template-color-23 .messonry-button button:hover span.filter-text {
-    color: #F08119
+    color: #249eda
 }
 
 body.template-color-23 .messonry-button button span.filter-counter {
