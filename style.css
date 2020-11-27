@@ -865,7 +865,7 @@ Animation Css
  font-family: 'Open Sans', sans-serif;
  font-family: 'Roboto', sans-serif;
  font-family: 'Reenie Beanie', cursive;
- font-family: 'CerebriSans';
+ font-family: 'Encode Sans Expanded';
  
  =================================================*/
 .hidden {
@@ -1015,8 +1015,8 @@ Animation Css
 .roboto-font {
   font-family: "Roboto", sans-serif; }
 
-.CerebriSans-font {
-  font-family: "CerebriSans";
+.Encode Sans Expanded-font {
+  font-family: "Encode Sans Expanded";
   color: #777; }
 
 /* Font Weight */
@@ -1106,7 +1106,7 @@ Animation Css
   background: #FBFBFD; }
 
 .bg_color--24 {
-  background: #68AE4A; }
+  background: #249eda; }
 
 .bg_color--25 {
   background: #BC9464; }
@@ -2162,7 +2162,7 @@ body.template-color-22 .text-color {
   color: #A810E0; }
 
 body.template-color-23 .text-color {
-  color: #68AE4A; }
+  color: #249eda; }
 
 body.template-color-24 .text-color {
   color: #BC9464; }
@@ -8193,7 +8193,7 @@ button.brook-btn {
     color: #222222; }
   a.brook-btn.bk-btn-green,
   button.brook-btn.bk-btn-green {
-    background: #68AE4A;
+    background: #249eda;
     color: #fff; }
   a.brook-btn.bk-btn-gray,
   button.brook-btn.bk-btn-gray {
@@ -8201,7 +8201,7 @@ button.brook-btn {
     color: #222222;
     text-transform: uppercase;
     font-weight: 500;
-    font-family: "CerebriSans";
+    font-family: "Encode Sans Expanded";
     -webkit-box-shadow: none;
     box-shadow: none; }
     a.brook-btn.bk-btn-gray:hover,
@@ -8438,8 +8438,8 @@ a.moredetails-btn {
   box-shadow: none !important;
   margin: 0 !important; }
   .btn-essential:hover {
-    background: #68AE4A !important;
-    border-color: #68AE4A !important;
+    background: #249eda !important;
+    border-color: #249eda !important;
     color: #fff !important;
     -webkit-transform: translateY(0px) !important;
     -ms-transform: translateY(0px) !important;
@@ -8740,7 +8740,7 @@ a.moredetails-btn {
   line-height: 1.22;
   letter-spacing: 3px;
   font-weight: 700;
-  font-family: "CerebriSans" !important;
+  font-family: "Encode Sans Expanded" !important;
   text-transform: uppercase;
   margin-bottom: 0; }
   @media only screen and (min-width: 992px) and (max-width: 1199px) {
@@ -8829,7 +8829,7 @@ a.moredetails-btn {
 .group-link a {
   position: relative;
   font-size: 18px;
-  font-family: "CerebriSans";
+  font-family: "Encode Sans Expanded";
   color: #222222;
   position: relative;
   padding: 2px 0;
@@ -8881,7 +8881,7 @@ a.moredetails-btn {
   font-size: 16px;
   color: #111;
   text-transform: uppercase;
-  font-family: "CerebriSans"; }
+  font-family: "Encode Sans Expanded"; }
   .view-btn a::before {
     content: "";
     position: absolute;
@@ -10648,17 +10648,17 @@ Blog Default Style
   background: #f5f6fa !important;
   height: 50px !important; }
   .bg-input-one input:focus {
-    border: 1px solid #68AE4A !important; }
+    border: 1px solid #249eda !important; }
 
 .bg-input-one textarea {
   border: 1px solid #f5f6fa !important;
   background: #f5f6fa !important; }
   .bg-input-one textarea:focus {
-    border: 1px solid #68AE4A !important; }
+    border: 1px solid #249eda !important; }
 
 .bg-input-one input[type="submit"] {
-  border-color: #68AE4A !important;
-  background-color: #68AE4A !important;
+  border-color: #249eda !important;
+  background-color: #249eda !important;
   color: #fff !important;
   border-radius: 0 !important; }
 
@@ -10668,7 +10668,7 @@ Blog Default Style
   color: #ffffff !important;
   border-color: #9F3939 !important;
   background-color: #9F3939 !important;
-  font-family: "CerebriSans" !important;
+  font-family: "Encode Sans Expanded" !important;
   font-size: 13px !important;
   font-weight: 500 !important;
   letter-spacing: 1px !important;
@@ -12511,7 +12511,7 @@ a {
     font-size: 18px;
     line-height: 34px;
     color: #fff;
-    font-family: "CerebriSans";
+    font-family: "Encode Sans Expanded";
     max-width: 610px;
     margin: 0 auto;
     margin-bottom: 40px; }
@@ -16647,7 +16647,7 @@ Pricing Box
     line-height: 1.75;
     color: #777; }
     .more-pricing p a {
-      color: #68AE4A;
+      color: #249eda;
       position: relative;
       padding: 2px 0;
       overflow: hidden;
@@ -16918,7 +16918,7 @@ Pricing Box
     width: 60px;
     margin-bottom: 22px; }
     .single-svg-icon-box .svg-icon svg * {
-      stroke: #68AE4A; }
+      stroke: #249eda; }
   .single-svg-icon-box .content h5 {
     font-size: 20px;
     margin-bottom: 18px;
@@ -16963,7 +16963,7 @@ Pricing Box
         transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1); }
       .single-svg-icon-box.business-icon-box .content p {
         color: #fff;
-        font-family: "CerebriSans";
+        font-family: "Encode Sans Expanded";
         -webkit-transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
         -o-transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
         transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1); }
@@ -36210,86 +36210,86 @@ body.template-color-22 #fp-nav ul li a.active {
   background-color: #A810E0; }
 
 body.template-color-23 .blog-grid .post-content .post-inner h5.heading a:hover {
-  color: #68AE4A; }
+  color: #249eda; }
 
 body.template-color-23 .blog-grid .post-content .post-inner h4.heading a:hover {
-  color: #68AE4A; }
+  color: #249eda; }
 
 body.template-color-23 .blog-grid .post-content .post-inner h3.heading a:hover {
-  color: #68AE4A; }
+  color: #249eda; }
 
 body.template-color-23 .faq-content h2 {
-  color: #68AE4A; }
+  color: #249eda; }
 
 body.template-color-23 .brook-section-title-corona h2 {
-  color: #68AE4A; }
+  color: #249eda; }
 
 body.template-color-23 .single-contagion .contagion-content h3 {
-  color: #68AE4A; }
+  color: #249eda; }
 
 body.template-color-23 .single-sympotom .sympotom-content h3 {
-  color: #68AE4A; }
+  color: #249eda; }
 
 body.template-color-23 .single-prevination .prevination-content h3 {
-  color: #68AE4A; }
+  color: #249eda; }
 
 body.template-color-23 .service.service--1.theme-color {
-  background: #68AE4A; }
+  background: #249eda; }
 
 body.template-color-23 .blog-grid-minimal.outline.bg-transparant {
-  border-color: #68AE4A; }
+  border-color: #249eda; }
   body.template-color-23 .blog-grid-minimal.outline.bg-transparant .post-content .post-meta .post-category a {
-    color: #68AE4A; }
+    color: #249eda; }
 
 body.template-color-23 .blog-grid-minimal.outline:hover {
   border-color: transparent; }
 
 body.template-color-23 .single-svg-icon-box.business-icon-box:hover {
-  background: #68AE4A; }
+  background: #249eda; }
 
 body.template-color-23 .product_review .description_nav a.active, body.template-color-23 .product_review .description_nav a:hover {
-  border-bottom: 3px solid #68AE4A; }
+  border-bottom: 3px solid #249eda; }
 
 body.template-color-23 .single-product-details-side .product-action a {
-  border-color: #68AE4A;
-  background-color: #68AE4A; }
+  border-color: #249eda;
+  background-color: #249eda; }
 
 body.template-color-23 .cart-table td.pro-subtotal span {
-  color: #68AE4A; }
+  color: #249eda; }
 
 body.template-color-23 .cart-table td.pro-addtocart button {
-  border: 1px solid #68AE4A;
-  background-color: #68AE4A; }
+  border: 1px solid #249eda;
+  background-color: #249eda; }
 
 body.template-color-23 .team.team_style--4 .inner .content-header .social-network .social-list a:hover {
-  color: #68AE4A; }
+  color: #249eda; }
 
 body.template-color-23 .testimonial--horizontal--active .swiper-pagination-custom .progressbar .filled {
-  background: #68AE4A; }
+  background: #249eda; }
 
 body.template-color-23 .slider-business .video-btn a .video-icon.secondary-color {
-  background: #68AE4A !important; }
+  background: #249eda !important; }
 
 body.template-color-23 a.brook-btn.bk-btn-yellow, body.template-color-23 button.brook-btn.bk-btn-yellow {
-  background: #68AE4A;
+  background: #249eda;
   color: #fff !important; }
 
 body.template-color-23 a.bk-btn.theme-btn, body.template-color-23 button.bk-btn.theme-btn {
-  background-color: #68AE4A; }
+  background-color: #249eda; }
 
 body.template-color-23 a.brook-btn.bk-btn-red, body.template-color-23 button.brook-btn.bk-btn-red {
-  background: #68AE4A; }
+  background: #249eda; }
 
 body.template-color-23 .section-title h3 {
-  color: #68AE4A; }
+  color: #249eda; }
 
 body.template-color-23 .service.service--1:hover::before {
-  border-color: #68AE4A; }
+  border-color: #249eda; }
 
 body.template-color-23 .service.service--1 .icons {
   margin-bottom: 22px; }
   body.template-color-23 .service.service--1 .icons i {
-    color: #68AE4A;
+    color: #249eda;
     font-size: 80px; }
 
 body.template-color-23 .service.service--1 .content a.service-btn i {
@@ -36300,15 +36300,15 @@ body.template-color-23 .service.service--1 .content a.service-btn i {
   -ms-transform: none;
   transform: none;
   margin-left: 15px;
-  color: #68AE4A;
+  color: #249eda;
   -webkit-transition: 0.3s;
   -o-transition: 0.3s;
   transition: 0.3s; }
 
 body.template-color-23 .service.service--1 .content a.service-btn:hover {
-  color: #68AE4A; }
+  color: #249eda; }
   body.template-color-23 .service.service--1 .content a.service-btn:hover i {
-    color: #68AE4A; }
+    color: #249eda; }
 
 body.template-color-23 .service.service--3 .thumb {
   overflow: hidden; }
@@ -36318,7 +36318,7 @@ body.template-color-23 .service.service--3 .thumb {
     transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1); }
 
 body.template-color-23 .service.service--3 .content h3 a:hover {
-  color: #68AE4A; }
+  color: #249eda; }
 
 body.template-color-23 .title-separator {
   display: block;
@@ -36329,7 +36329,7 @@ body.template-color-23 .title-separator {
     height: 3px;
     border-radius: 3px; }
   body.template-color-23 .title-separator.color-red::after, body.template-color-23 .title-separator.color-blue::after {
-    background: #68AE4A; }
+    background: #249eda; }
 
 body.template-color-23 .bk-gradation .item-grid {
   -webkit-box-flex: 1;
@@ -36339,320 +36339,320 @@ body.template-color-23 .bk-gradation .item-grid {
   position: relative;
   padding: 0 10px; }
   body.template-color-23 .bk-gradation .item-grid .dot-wrap .dot {
-    background: #68AE4A; }
+    background: #249eda; }
   body.template-color-23 .bk-gradation .item-grid.custom-color--2 .dot-wrap .dot {
-    background: #68AE4A; }
+    background: #249eda; }
   body.template-color-23 .bk-gradation .item-grid.custom-color--3 .dot-wrap .dot {
-    background: #68AE4A; }
+    background: #249eda; }
   body.template-color-23 .bk-gradation .item-grid.custom-color--4 .dot-wrap .dot {
-    background: #68AE4A; }
+    background: #249eda; }
 
 body.template-color-23 .post-nav-lisnt .nav-item a:hover {
-  background: #68AE4A; }
+  background: #249eda; }
 
 body.template-color-23 .portfolio-nav-list .portfolio-page .inner a:hover {
-  color: #68AE4A; }
+  color: #249eda; }
 
 body.template-color-23 .team.team_style--1 .image-wrap .thumb .overlay.red-color {
-  background-color: #68AE4A; }
+  background-color: #249eda; }
 
 body.template-color-23 .team.team_style--1 .image-wrap .social-networks .inner a[class*=hint--]:after {
-  background-color: #68AE4A; }
+  background-color: #249eda; }
 
 body.template-color-23 .team.team_style--1 .image-wrap .social-networks .inner a.hint--top::before {
-  border-top-color: #68AE4A; }
+  border-top-color: #249eda; }
 
 body.template-color-23 .team.team__style--2 .thumb .overlay {
-  background-color: #68AE4A; }
+  background-color: #249eda; }
   body.template-color-23 .team.team__style--2 .thumb .overlay.red-color {
-    background-color: #68AE4A; }
+    background-color: #249eda; }
 
 body.template-color-23 .team.team__style--2:hover .thumb {
   border-color: rgba(0, 56, 227, 0.1); }
 
 body.template-color-23 .team.team__style--3 .thumb .overlay {
-  background-color: #68AE4A; }
+  background-color: #249eda; }
   body.template-color-23 .team.team__style--3 .thumb .overlay.red-color {
-    background-color: #68AE4A; }
+    background-color: #249eda; }
 
 body.template-color-23 .blog-grid--modern.blog-standard {
   /* -------------------
                                 Yellow Color  
                                 ---------------------*/ }
   body.template-color-23 .blog-grid--modern.blog-standard .post-thumb::after {
-    background: #68AE4A; }
+    background: #249eda; }
   body.template-color-23 .blog-grid--modern.blog-standard .post-read-more {
-    background-color: #68AE4A; }
+    background-color: #249eda; }
   body.template-color-23 .blog-grid--modern.blog-standard.blog-yellow-color .post-thumb::after {
-    background: #68AE4A; }
+    background: #249eda; }
   body.template-color-23 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner h5.heading a:hover, body.template-color-23 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner .post-meta .post-category a:hover {
-    color: #68AE4A; }
+    color: #249eda; }
   body.template-color-23 .blog-grid--modern.blog-standard.blog-yellow-color .post-read-more {
-    background-color: #68AE4A;
+    background-color: #249eda;
     color: #fff; }
 
 body.template-color-23 [data-overlay]:before {
-  background-color: #68AE4A; }
+  background-color: #249eda; }
 
 body.template-color-23 .team-heading .heading-right button i {
-  color: #68AE4A; }
+  color: #249eda; }
 
 body.template-color-23 .team-heading .heading-right button:hover {
-  color: #68AE4A !important; }
+  color: #249eda !important; }
 
 body.template-color-23 .has-center-content .has-centerinner .content h1.heading::before {
-  background-color: #68AE4A; }
+  background-color: #249eda; }
 
 body.template-color-23 .has-center-content .has-centerinner .content .read-more-btn a i, body.template-color-23 .has-center-content .has-centerinner .content .read-more-btn a:hover {
-  color: #68AE4A; }
+  color: #249eda; }
 
 body.template-color-23 .mini-cart .shopping-cart {
-  border-bottom: 2px solid #68AE4A; }
+  border-bottom: 2px solid #249eda; }
   body.template-color-23 .mini-cart .shopping-cart .shop-inner ul.product-list li .content .inner h4 a:hover {
-    color: #68AE4A; }
+    color: #249eda; }
   body.template-color-23 .mini-cart .shopping-cart .shop-inner ul.product-list li .content .delete-btn:hover {
-    color: #68AE4A; }
+    color: #249eda; }
   body.template-color-23 .mini-cart .shopping-cart .footer a.cart-btn {
-    border-color: #68AE4A;
-    background-color: #68AE4A; }
+    border-color: #249eda;
+    background-color: #249eda; }
 
 body.template-color-23 .brook__toolbar .inner a:hover {
-  color: #68AE4A; }
+  color: #249eda; }
 
 body.template-color-23 .blog-grid .post-inner h5.heading:hover {
-  color: #68AE4A; }
+  color: #249eda; }
   body.template-color-23 .blog-grid .post-inner h5.heading:hover a {
-    color: #68AE4A; }
+    color: #249eda; }
 
 body.template-color-23 .blog-grid .post-inner .post-meta .post-category:hover a {
-  color: #68AE4A; }
+  color: #249eda; }
 
 body.template-color-23 .theme-color {
-  color: #68AE4A; }
+  color: #249eda; }
 
 body.template-color-23 .bg_color--2 {
-  background: #68AE4A; }
+  background: #249eda; }
 
 body.template-color-23 a.brook-btn.bk-btn-theme,
 body.template-color-23 button.brook-btn.bk-btn-theme {
-  background: #68AE4A;
+  background: #249eda;
   color: #fff; }
 
 body.template-color-23 .btn-essential:hover {
-  background: #68AE4A !important;
-  border-color: #68AE4A !important;
+  background: #249eda !important;
+  border-color: #249eda !important;
   color: #fff; }
 
 body.template-color-23 .red-border {
-  border-color: #68AE4A !important; }
+  border-color: #249eda !important; }
 
 body.template-color-23 .slick-arrow-center.slick-arrow-rounded .slick-btn:hover {
-  background-color: #68AE4A;
+  background-color: #249eda;
   color: #fff; }
 
 body.template-color-23 .single-svg-icon-box .svg-icon svg * {
-  stroke: #68AE4A !important; }
+  stroke: #249eda !important; }
 
 body.template-color-23 .single-svg-icon-box:hover .svg-icon svg * {
   stroke: #fff !important; }
 
 body.template-color-23 .menu-price {
-  color: #68AE4A; }
+  color: #249eda; }
 
 body.template-color-23 a.moredetails-btn:hover {
-  color: #68AE4A; }
+  color: #249eda; }
 
 body.template-color-23 a.moredetails-btn i {
-  color: #68AE4A; }
+  color: #249eda; }
 
 body.template-color-23 .messonry-button button.is-checked span.filter-text {
-  color: #68AE4A; }
+  color: #249eda; }
 
 body.template-color-23 .messonry-button button:hover span.filter-text {
-  color: #68AE4A; }
+  color: #249eda; }
 
 body.template-color-23 .messonry-button button span.filter-counter {
-  background-color: #68AE4A; }
+  background-color: #249eda; }
   body.template-color-23 .messonry-button button span.filter-counter::before {
-    border-top: 4px solid #68AE4A;
-    border-top-color: #68AE4A; }
+    border-top: 4px solid #249eda;
+    border-top-color: #249eda; }
 
 body.template-color-23 .messonry-button button:hover span.filter-text {
-  color: #68AE4A; }
+  color: #249eda; }
 
 body.template-color-23 .messonry-button button.is-checked span.filter-text {
-  color: #68AE4A; }
+  color: #249eda; }
 
 body.template-color-23 .portfolio.portfolio_style--1 .port-overlay-info {
-  background-color: #68AE4A; }
+  background-color: #249eda; }
 
 body.template-color-23 .testimonial_style--2 .content .testimonial-info .testimonial-quote {
-  color: #68AE4A; }
+  color: #249eda; }
 
 body.template-color-23 .testimonial_style--1 .content .testimonial-quote span {
-  color: #68AE4A; }
+  color: #249eda; }
 
 body.template-color-23 .testimonial_style--1:hover {
-  background: #68AE4A; }
+  background: #249eda; }
   body.template-color-23 .testimonial_style--1:hover .testimonial-quote span {
     color: #ffffff; }
 
 body.template-color-23 .contact-form.contact-form--4 .input-box button {
-  color: #68AE4A; }
+  color: #249eda; }
   body.template-color-23 .contact-form.contact-form--4 .input-box button:hover {
     color: #fff;
-    background: #68AE4A; }
+    background: #249eda; }
 
 body.template-color-23 .contact-form.contact-form--3 .input-box button {
-  color: #68AE4A; }
+  color: #249eda; }
 
 body.template-color-23 .animated-dot {
-  background-color: #68AE4A; }
+  background-color: #249eda; }
   body.template-color-23 .animated-dot .middle-dot {
-    background-color: #68AE4A; }
+    background-color: #249eda; }
   body.template-color-23 .animated-dot .signal {
-    background-color: #68AE4A; }
+    background-color: #249eda; }
   body.template-color-23 .animated-dot .signal2 {
-    background-color: #68AE4A; }
+    background-color: #249eda; }
 
 body.template-color-23 .progress-charts .progress .progress-bar {
-  background-color: #68AE4A; }
+  background-color: #249eda; }
 
 body.template-color-23 .brook-counter .icon i {
-  color: #68AE4A; }
+  color: #249eda; }
 
 body.template-color-23 .social-share a:hover {
-  color: #68AE4A; }
+  color: #249eda; }
 
 body.template-color-23 .social-icon.tooltip-layout li a.hint--theme[aria-label]::after {
-  background: #68AE4A; }
+  background: #249eda; }
 
 body.template-color-23 .social-icon.tooltip-layout li a.hint--theme[aria-label]::before {
-  border-top-color: #68AE4A; }
+  border-top-color: #249eda; }
 
 body.template-color-23 .video-btn a.video-icon,
 body.template-color-23 .video-btn a .video-icon {
-  background: #68AE4A; }
+  background: #249eda; }
 
 body.template-color-23 .video-btn-2 .icon-gradient::before {
-  background-color: #68AE4A;
-  background-image: -webkit-linear-gradient(223deg, #899664 0, #68AE4A 100%);
-  background-image: -o-linear-gradient(223deg, #899664 0, #68AE4A 100%);
-  background-image: linear-gradient(-133deg, #899664 0, #68AE4A 100%); }
+  background-color: #249eda;
+  background-image: -webkit-linear-gradient(223deg, #899664 0, #249eda 100%);
+  background-image: -o-linear-gradient(223deg, #899664 0, #249eda 100%);
+  background-image: linear-gradient(-133deg, #899664 0, #249eda 100%); }
 
 body.template-color-23 .video-btn-2 .icon-gradient::after {
-  background-color: #68AE4A;
-  background-image: -webkit-linear-gradient(223deg, #899664 0, #68AE4A 100%);
-  background-image: -o-linear-gradient(223deg, #899664 0, #68AE4A 100%);
-  background-image: linear-gradient(-133deg, #899664 0, #68AE4A 100%); }
+  background-color: #249eda;
+  background-image: -webkit-linear-gradient(223deg, #899664 0, #249eda 100%);
+  background-image: -o-linear-gradient(223deg, #899664 0, #249eda 100%);
+  background-image: linear-gradient(-133deg, #899664 0, #249eda 100%); }
 
 body.template-color-23 .single-motive-speach .icon i {
-  color: #68AE4A; }
+  color: #249eda; }
 
 body.template-color-23 .bk-accordion-style--2 .card-header h5 a.acc-btn[aria-expanded="true"] {
-  color: #68AE4A; }
+  color: #249eda; }
   body.template-color-23 .bk-accordion-style--2 .card-header h5 a.acc-btn[aria-expanded="true"]::before {
-    color: #68AE4A; }
+    color: #249eda; }
 
 body.template-color-23 .contact-form input:focus,
 body.template-color-23 .contact-form textarea:focus {
-  border-color: #68AE4A; }
+  border-color: #249eda; }
 
 body.template-color-23 .contact-form input[type="submit"],
 body.template-color-23 .contact-form textarea[type="submit"] {
-  border-color: #68AE4A;
-  background-color: #68AE4A; }
+  border-color: #249eda;
+  background-color: #249eda; }
 
 body.template-color-23 .product .product-thumbnail .product-action .action-list.tooltip-layout li a:hover {
-  background-color: #68AE4A;
+  background-color: #249eda;
   color: #fff;
-  border-color: #68AE4A; }
+  border-color: #249eda; }
 
 body.template-color-23 .gallery .hover-overlay {
-  background-color: #68AE4A; }
+  background-color: #249eda; }
 
 body.template-color-23 .slick-dots-bottom .slick-dots li.slick-active button {
-  background: #68AE4A; }
+  background: #249eda; }
 
 body.template-color-23 .blog-grid .post-content::before {
-  background-color: #68AE4A; }
+  background-color: #249eda; }
 
 body.template-color-23 .blog-grid-no-flex .post-quote::before {
-  color: #68AE4A; }
+  color: #249eda; }
 
 body.template-color-23 .brook-pagination-wrapper .brook-pagination li a {
-  border: 1px solid #68AE4A; }
+  border: 1px solid #249eda; }
   body.template-color-23 .brook-pagination-wrapper .brook-pagination li a:hover {
-    background: #68AE4A; }
+    background: #249eda; }
 
 body.template-color-23 .brook-pagination-wrapper .brook-pagination li.active a {
-  background: #68AE4A; }
+  background: #249eda; }
 
 body.template-color-23 .bl-sidebar.search button:hover {
-  background-color: #68AE4A; }
+  background-color: #249eda; }
 
 body.template-color-23 .bl-sidebar.search button span {
-  color: #68AE4A; }
+  color: #249eda; }
 
 body.template-color-23 .bl-sidebar.category .category-list li a:hover {
-  color: #68AE4A; }
+  color: #249eda; }
 
 body.template-color-23 .bl-sidebar.tag .inner .tagcloud li a:hover {
-  color: #68AE4A; }
+  color: #249eda; }
 
 body.template-color-23 .social-icon.icon-solid-rounded li a:hover {
-  background-color: #68AE4A; }
+  background-color: #249eda; }
 
 body.template-color-23 .icon-box .inner .icon {
-  color: #68AE4A; }
+  color: #249eda; }
 
 body.template-color-23 .basic-thick-line-theme-4 {
-  border-top: 4px solid #68AE4A; }
+  border-top: 4px solid #249eda; }
 
 body.template-color-23 .procing-box .header .feature-mark {
-  background-color: #68AE4A; }
+  background-color: #249eda; }
 
 body.template-color-23 a.brook-btn.bk-btn-dark:hover {
-  background: #68AE4A; }
+  background: #249eda; }
 
 body.template-color-23 .bk-list--2 .list-header.with-ckeck .marker::before {
-  color: #68AE4A; }
+  color: #249eda; }
 
 body.template-color-23 .ht-pricing-list-view thead tr th.pricing-header .feature-park {
-  background: #68AE4A; }
+  background: #249eda; }
 
 body.template-color-23 .testimonial-color-variation .slick-center .testimonial_style--1.bg-dark {
-  background: #68AE4A !important; }
+  background: #249eda !important; }
 
 body.template-color-23 .basic-modern-dots .dot {
-  background-color: #68AE4A; }
+  background-color: #249eda; }
 
 body.template-color-23 .bk-accordion .card-header h5 a.acc-btn[aria-expanded="true"] {
-  background: #68AE4A; }
+  background: #249eda; }
 
 body.template-color-23 a.brook-btn.bk-btn-theme-border,
 body.template-color-23 button.brook-btn.bk-btn-theme-border {
-  border-color: #68AE4A;
-  color: #68AE4A; }
+  border-color: #249eda;
+  color: #249eda; }
   body.template-color-23 a.brook-btn.bk-btn-theme-border:hover,
   body.template-color-23 button.brook-btn.bk-btn-theme-border:hover {
-    background: #68AE4A;
+    background: #249eda;
     color: #ffffff; }
 
 body.template-color-23 .brook-quote::before {
-  color: #68AE4A; }
+  color: #249eda; }
 
 body.template-color-23 .bk-text-box.bg-theme-color {
-  background: #68AE4A; }
+  background: #249eda; }
 
 body.template-color-23 .bk-list--2 .list-header.with-number--theme .marker {
-  color: #68AE4A; }
+  color: #249eda; }
 
 body.template-color-23 .view-more-btn a span.btn-arrow {
-  color: #68AE4A; }
+  color: #249eda; }
 
 body.template-color-23 #fp-nav ul li a.active {
-  background-color: #68AE4A; }
+  background-color: #249eda; }
 
 body.template-color-24 .blog-grid .post-content .post-inner h5.heading a:hover {
   color: #BC9464; }
@@ -45034,50 +45034,50 @@ body.template-font-7 .h3,
 body.template-font-7 .h4,
 body.template-font-7 .h5,
 body.template-font-7 .h6 {
-  font-family: "CerebriSans"; }
+  font-family: "Encode Sans Expanded"; }
 
 body.template-font-7 .heading.font-reenie {
   font-family: 'Reenie Beanie', cursive; }
 
 body.template-font-7 .mini-cart .shopping-cart .shop-inner ul.product-list li .content .inner h4 {
-  font-family: "CerebriSans"; }
+  font-family: "Encode Sans Expanded"; }
 
 body.template-font-7 .mega__width--fullscreen .mega__list li a span {
-  font-family: "CerebriSans"; }
+  font-family: "Encode Sans Expanded"; }
 
 body.template-font-7 .mainmenu-wrapper .page_nav ul.mainmenu li.lavel-1 > a span {
-  font-family: "CerebriSans"; }
+  font-family: "Encode Sans Expanded"; }
 
 body.template-font-7 .footer-widget .footer-menu ul.ft-menu-list li a {
-  font-family: "CerebriSans"; }
+  font-family: "Encode Sans Expanded"; }
 
 body.template-font-7 .copyright ul.bk-copyright-menu li a {
-  font-family: "CerebriSans"; }
+  font-family: "Encode Sans Expanded"; }
 
 body.template-font-7 .copyright .copyright-right p {
-  font-family: "CerebriSans"; }
+  font-family: "Encode Sans Expanded"; }
 
 body.template-font-7 .footer-widget .footer-address p {
-  font-family: "CerebriSans"; }
+  font-family: "Encode Sans Expanded"; }
 
 body.template-font-7 .form-style--1 .input-box input,
 body.template-font-7 .form-style--1 .input-box textarea {
-  font-family: "CerebriSans"; }
+  font-family: "Encode Sans Expanded"; }
 
 body.template-font-7 .testimonial_style--1 .content p {
-  font-family: "CerebriSans"; }
+  font-family: "Encode Sans Expanded"; }
 
 body.template-font-7 .testimonial_style--1 .content .testimonial-info .clint-info span {
-  font-family: "CerebriSans"; }
+  font-family: "Encode Sans Expanded"; }
 
 body.template-font-7 .service.service--1 .content p {
-  font-family: "CerebriSans"; }
+  font-family: "Encode Sans Expanded"; }
 
 body.template-font-7 .service.service--2 .content h4 {
-  font-family: "CerebriSans"; }
+  font-family: "Encode Sans Expanded"; }
 
 body.template-font-7 .service.service--2 .content p {
-  font-family: "CerebriSans"; }
+  font-family: "Encode Sans Expanded"; }
 
 body.template-font-8 .heading,
 body.template-font-8 h1,

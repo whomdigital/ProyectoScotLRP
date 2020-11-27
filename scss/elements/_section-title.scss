@@ -94,7 +94,7 @@
         line-height: 1.22;
         letter-spacing: 3px;
         font-weight: 700;
-        font-family: $CerebriSans !important;
+        font-family: $Encode Sans Expanded !important;
         text-transform: uppercase;
         margin-bottom: 0;
         // Responsive
@@ -195,7 +195,7 @@
     a{
         position: relative;
         font-size: 18px;
-        font-family: $CerebriSans;
+        font-family: $Encode Sans Expanded;
         color: $heading-color;
         position: relative;
         padding: 2px 0;
@@ -248,7 +248,7 @@
         font-size: 16px;
         color: #111;
         text-transform: uppercase;
-        font-family: $CerebriSans;
+        font-family: $Encode Sans Expanded;
         &::before{
             content: "";
             position: absolute;
