@@ -148,13 +148,13 @@
 /*===================================
     Default Styles
 ====================================*/
-@import url("https://fonts.googleapis.com/css?family=Poppins:300,300i,400,400i,500,500i,600,600i,700,700i,800,900|Permanent+Marker|Playfair+Display:400,400i,700,700i,900,900i|Montserrat:300,300i,400,400i,500,500i,600,700,700i,800|Open+Sans:400|Roboto:400,400i,500,500i,700,700i,900|Reenie+Beanie");
+@import url("https://fonts.googleapis.com/css?family=Encode Sans Expanded:300,300i,400,400i,500,500i,600,600i,700,700i,800,900|Permanent+Marker|Playfair+Display:400,400i,700,700i,900,900i|Montserrat:300,300i,400,400i,500,500i,600,700,700i,800|Open+Sans:400|Roboto:400,400i,500,500i,700,700i,900|Reenie+Beanie");
 @import url("https://fonts.googleapis.com/css?family=Spectral:600i&display=swap");
 .color-dark {
   color: #222222 !important; }
 
 /*================================================ 
- font-family: 'Poppins', sans-serif;
+ font-family: 'Encode Sans Expanded', sans-serif;
  font-family: 'Permanent Marker', cursive;
  font-family: 'Playfair Display', serif;
  font-family: 'Montserrat', sans-serif;
@@ -488,7 +488,7 @@ body {
   line-height: 24px;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  font-family: "Poppins", sans-serif;
+  font-family: "Encode Sans Expanded", sans-serif;
   color: #333333;
   font-weight: 400; }
 
@@ -858,7 +858,7 @@ Animation Css
  */
 /* Font Family */
 /*================================================ 
- font-family: 'Poppins', sans-serif;
+ font-family: 'Encode Sans Expanded', sans-serif;
  font-family: 'Permanent Marker', cursive;
  font-family: 'Playfair Display', serif;
  font-family: 'Montserrat', sans-serif;
@@ -1001,7 +1001,7 @@ Animation Css
   font-family: "Montserrat", sans-serif; }
 
 .primary-font {
-  font-family: "Poppins", sans-serif; }
+  font-family: "Encode Sans Expanded", sans-serif; }
 
 .heading-font {
   font-family: "louis_george_caferegular"; }
@@ -7513,7 +7513,7 @@ Padding Top Bottom
 
 /* Font specialized */
 .body-font {
-  font-family: "Poppins", sans-serif; }
+  font-family: "Encode Sans Expanded", sans-serif; }
 
 .heading-font {
   font-family: "louis_george_caferegular"; }
@@ -8120,7 +8120,7 @@ button.bk-btn {
   font-size: 14px;
   font-weight: 600;
   letter-spacing: 0em;
-  font-family: "Poppins", sans-serif; }
+  font-family: "Encode Sans Expanded", sans-serif; }
   a.bk-btn.theme-btn,
   button.bk-btn.theme-btn {
     background-color: #0038E3; }
@@ -8146,7 +8146,7 @@ button.brook-btn {
   box-shadow: 0 10px 20px rgba(0, 0, 0, 0.07);
   font-weight: 600;
   letter-spacing: 0em;
-  font-family: "Poppins", sans-serif;
+  font-family: "Encode Sans Expanded", sans-serif;
   display: inline-block;
   text-align: center;
   white-space: nowrap;
@@ -8404,7 +8404,7 @@ a.moredetails-btn {
       margin-left: 14px;
       color: #FCB72B;
       font-size: 14px;
-      font-family: "Poppins", sans-serif; }
+      font-family: "Encode Sans Expanded", sans-serif; }
       .view-more-btn a span.btn-arrow::before {
         content: "";
         position: absolute;
@@ -8676,7 +8676,7 @@ a.moredetails-btn {
   letter-spacing: 1px;
   text-transform: uppercase;
   line-height: 1.43;
-  font-family: "Poppins", sans-serif;
+  font-family: "Encode Sans Expanded", sans-serif;
   margin-bottom: 39px; }
   @media only screen and (max-width: 767px) {
     .section-title h3 {
@@ -8991,7 +8991,7 @@ Creative Agency Section Title
     font-weight: 600;
     font-size: 14px;
     color: #fff;
-    font-family: "Poppins", sans-serif;
+    font-family: "Encode Sans Expanded", sans-serif;
     white-space: nowrap;
     line-height: 1.2; }
     .section-title--between .section-btn a.button-text i {
@@ -9097,7 +9097,7 @@ Creative Agency Section Title
     line-height: 1.38;
     margin-bottom: 18px;
     color: #222222;
-    font-family: "Poppins", sans-serif;
+    font-family: "Encode Sans Expanded", sans-serif;
     font-weight: 600; }
   .service.service--1 .content p {
     color: #333;
@@ -9190,7 +9190,7 @@ Creative Agency Section Title
     font-weight: 600;
     letter-spacing: 0em;
     line-height: 1.23;
-    font-family: "Poppins", sans-serif; }
+    font-family: "Encode Sans Expanded", sans-serif; }
     .service.service--3 .content h3 a {
       color: #222222;
       -webkit-transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
@@ -9528,7 +9528,7 @@ Counterup Area
   line-height: 1.43;
   margin-bottom: 0;
   word-wrap: break-word;
-  font-family: "Poppins", sans-serif; }
+  font-family: "Encode Sans Expanded", sans-serif; }
 
 .number-speaks .content h2 {
   font-size: 48px;
@@ -9574,7 +9574,7 @@ Counterup Area
       line-height: 1.39;
       margin-bottom: 0;
       color: #222222;
-      font-family: "Poppins", sans-serif;
+      font-family: "Encode Sans Expanded", sans-serif;
       font-weight: 600; }
     .number-wrap .content p {
       margin-top: 20px;
@@ -9640,7 +9640,7 @@ Counterup Area
   letter-spacing: 1px;
   text-transform: uppercase;
   line-height: 1.43;
-  font-family: "Poppins", sans-serif; }
+  font-family: "Encode Sans Expanded", sans-serif; }
 
 .team-heading .heading-right button {
   padding: 0;
@@ -9649,7 +9649,7 @@ Counterup Area
   font-weight: 600;
   font-size: 14px;
   color: #222;
-  font-family: "Poppins", sans-serif; }
+  font-family: "Encode Sans Expanded", sans-serif; }
   .team-heading .heading-right button i {
     padding-left: 10px;
     color: #0038E3; }
@@ -9815,7 +9815,7 @@ Counterup Area
     margin-bottom: 4px;
     color: #222222;
     font-weight: 600;
-    font-family: "Poppins", sans-serif; }
+    font-family: "Encode Sans Expanded", sans-serif; }
   .team.team_style--1 .info span {
     letter-spacing: 0em;
     line-height: 1.32;
@@ -9928,7 +9928,7 @@ Counterup Area
       line-height: 1.388;
       margin-bottom: 6px;
       color: #fff;
-      font-family: "Poppins", sans-serif; }
+      font-family: "Encode Sans Expanded", sans-serif; }
     .team.team__style--2 .thumb .team-info .info span {
       color: rgba(255, 255, 255, 0.5);
       text-align: center;
@@ -10006,7 +10006,7 @@ Counterup Area
   font-size: 18px;
   line-height: 1.388;
   margin-bottom: 6px;
-  font-family: "Poppins", sans-serif; }
+  font-family: "Encode Sans Expanded", sans-serif; }
 
 .team.team__style--3 .team-info .info span {
   font-weight: 500;
@@ -10064,7 +10064,7 @@ Counterup Area
     line-height: 1.4;
     margin-bottom: 2px;
     color: #222222;
-    font-family: "Poppins", sans-serif; }
+    font-family: "Encode Sans Expanded", sans-serif; }
   .team.team_style--4 .inner .content-body .position {
     font-size: 14px;
     color: #333; }
@@ -10416,7 +10416,7 @@ Blog Default Style
       line-height: 1.56;
       margin-bottom: 0;
       font-weight: 600;
-      font-family: "Poppins", sans-serif;
+      font-family: "Encode Sans Expanded", sans-serif;
       margin: 0 0 18px; }
       .blog .blog-content .content h3.the-title a {
         color: #fff; }
@@ -10554,7 +10554,7 @@ Blog Default Style
     line-height: 1.375;
     margin-bottom: 0;
     font-weight: 600;
-    font-family: "Poppins", sans-serif;
+    font-family: "Encode Sans Expanded", sans-serif;
     margin: 0 0 18px; }
     .blog-style--1 .blog-content .content h3.the-title a {
       color: #fff; }
@@ -10563,7 +10563,7 @@ Blog Default Style
     line-height: 1.12;
     margin-bottom: 0;
     font-weight: 600;
-    font-family: "Poppins", sans-serif; }
+    font-family: "Encode Sans Expanded", sans-serif; }
     .blog-style--1 .blog-content .content h6.post-quote-by a {
       color: #fff; }
   .blog-style--1:hover .thumb a img {
@@ -10816,7 +10816,7 @@ Contact Form Style 01
       cursor: pointer;
       -webkit-box-shadow: 0 10px 20px rgba(0, 0, 0, 0.07);
       box-shadow: 0 10px 20px rgba(0, 0, 0, 0.07);
-      font-family: "Poppins", sans-serif;
+      font-family: "Encode Sans Expanded", sans-serif;
       color: #ffffff;
       border-color: #0038E3;
       background-color: #0038E3;
@@ -10851,7 +10851,7 @@ Contact Form Style 01
     background-color: #0038E3;
     font-size: 14px;
     font-weight: 600;
-    font-family: "Poppins", sans-serif;
+    font-family: "Encode Sans Expanded", sans-serif;
     border-radius: 6px;
     -webkit-transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
     -o-transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
@@ -11138,7 +11138,7 @@ Contact Form Style 01
   font-weight: 600;
   font-size: 14px;
   color: #fff;
-  font-family: "Poppins", sans-serif;
+  font-family: "Encode Sans Expanded", sans-serif;
   white-space: nowrap;
   line-height: 1.2; }
   .about--creative .content a.about-btn i {
@@ -11281,7 +11281,7 @@ Contact Form Style 01
   -webkit-transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
   -o-transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
   transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
-  font-family: "Poppins", sans-serif;
+  font-family: "Encode Sans Expanded", sans-serif;
   font-weight: 600;
   font-size: 14px; }
   .call-to-action button i {
@@ -11920,7 +11920,7 @@ Contact Form Style 01
       border: 7px solid transparent;
       z-index: 1000001; }
     .social-icon.tooltip-layout li a[class*=hint--][aria-label]:after {
-      font-family: "Poppins", sans-serif;
+      font-family: "Encode Sans Expanded", sans-serif;
       font-weight: 600;
       line-height: 1.23;
       content: attr(aria-label); }
@@ -12123,7 +12123,7 @@ a {
     border: 7px solid transparent;
     z-index: 1000001; }
   a[class*=hint--][aria-label]:after {
-    font-family: "Poppins", sans-serif;
+    font-family: "Encode Sans Expanded", sans-serif;
     font-weight: 600;
     line-height: 1.23;
     content: attr(aria-label); }
@@ -12861,13 +12861,13 @@ a {
     font-size: 18px;
     margin-bottom: 14px;
     font-weight: 600;
-    font-family: "Poppins", sans-serif;
+    font-family: "Encode Sans Expanded", sans-serif;
     line-height: 1.23; }
   .carousle-slider .content p {
     line-height: 1.58;
     font-size: 14px;
     font-weight: 500;
-    font-family: "Poppins", sans-serif;
+    font-family: "Encode Sans Expanded", sans-serif;
     color: #333333;
     margin: 0; }
 
@@ -12983,7 +12983,7 @@ Countdown Area
   bottom: -31px;
   font-size: 14px !important;
   color: #999;
-  font-family: "Poppins", sans-serif; }
+  font-family: "Encode Sans Expanded", sans-serif; }
 
 .time_circles > div > span {
   display: block;
@@ -13318,7 +13318,7 @@ Progress Charts
           border-radius: 50%;
           text-align: center;
           z-index: 3;
-          font-family: "Poppins", sans-serif; }
+          font-family: "Encode Sans Expanded", sans-serif; }
     .bk-gradation .item-grid .content {
       position: relative;
       text-align: center;
@@ -13493,7 +13493,7 @@ Pricing PLans
     .ht-pricing-list-view thead tr th.pricing-header .heading-h4 {
       font-size: 24px;
       color: #222222;
-      font-family: "Poppins", sans-serif;
+      font-family: "Encode Sans Expanded", sans-serif;
       font-weight: 600;
       letter-spacing: 0em;
       line-height: 1.23;
@@ -13501,7 +13501,7 @@ Pricing PLans
     .ht-pricing-list-view thead tr th.pricing-header .heading-h6 {
       font-size: 14px;
       color: #222222;
-      font-family: "Poppins", sans-serif;
+      font-family: "Encode Sans Expanded", sans-serif;
       font-weight: 600;
       letter-spacing: 0em;
       line-height: 1.23;
@@ -14227,13 +14227,13 @@ Testimonial Area
         margin-bottom: 6px;
         color: #222222;
         font-weight: 600;
-        font-family: "Poppins", sans-serif; }
+        font-family: "Encode Sans Expanded", sans-serif; }
       .testimonial_style--1 .content .testimonial-info .clint-info span {
         color: #333333;
         font-weight: 500;
         line-height: 1.58;
         font-size: 14px;
-        font-family: "Poppins", sans-serif; }
+        font-family: "Encode Sans Expanded", sans-serif; }
   .testimonial_style--1 .content .testimonial-quote {
     padding: 2px 5px 0 0;
     font-size: 28px;
@@ -14388,13 +14388,13 @@ Testimonial Area
         font-size: 18px;
         line-height: 1.388;
         margin-bottom: 4px;
-        font-family: "Poppins", sans-serif; }
+        font-family: "Encode Sans Expanded", sans-serif; }
       .testimonial_style--2 .content .testimonial-info .clint-info span {
         font-weight: 500;
         letter-spacing: 0em;
         line-height: 1.58;
         font-size: 14px;
-        font-family: "Poppins", sans-serif; }
+        font-family: "Encode Sans Expanded", sans-serif; }
     .testimonial_style--2 .content .testimonial-info .testimonial-quote {
       position: absolute;
       right: 0;
@@ -14500,7 +14500,7 @@ Testimonial Area
     font-weight: 700;
     display: inline-block;
     margin-bottom: 0;
-    font-family: "Poppins", sans-serif; }
+    font-family: "Encode Sans Expanded", sans-serif; }
   .testimonial-nav-content .testimonial-nav .content .testimonial-info .clint-info span {
     font-size: 15px;
     font-style: italic;
@@ -14524,7 +14524,7 @@ Testimonial Area
   font-weight: 700;
   display: inline-block;
   margin-bottom: 0;
-  font-family: "Poppins", sans-serif; }
+  font-family: "Encode Sans Expanded", sans-serif; }
 
 .testimonial-nav-content.testimonial-content--2 .testimonial-nav .content .testimonial-info .clint-info span {
   font-size: 15px;
@@ -14587,14 +14587,14 @@ Testimonial Area
       font-size: 18px;
       line-height: 1.388;
       margin-bottom: 4px;
-      font-family: "Poppins", sans-serif;
+      font-family: "Encode Sans Expanded", sans-serif;
       color: #ffffff; }
     .testimonanial-style--3 .testimonial-info .clint-info span {
       font-weight: 500;
       letter-spacing: 0em;
       line-height: 1.58;
       font-size: 14px;
-      font-family: "Poppins", sans-serif;
+      font-family: "Encode Sans Expanded", sans-serif;
       color: #ffffff; }
 
 .testimonial_style--4 .content {
@@ -14639,13 +14639,13 @@ Testimonial Area
         margin-bottom: 6px;
         color: #fff;
         font-weight: 600;
-        font-family: "Poppins", sans-serif; }
+        font-family: "Encode Sans Expanded", sans-serif; }
       .testimonial_style--4 .content .testimonial-info .clint-info span {
         color: rgba(255, 255, 255, 0.6);
         font-weight: 500;
         line-height: 1.58;
         font-size: 14px;
-        font-family: "Poppins", sans-serif; }
+        font-family: "Encode Sans Expanded", sans-serif; }
 
 .testimonial_style--5 .content {
   margin: 0 auto;
@@ -14673,13 +14673,13 @@ Testimonial Area
         margin-bottom: 6px;
         color: #fff;
         font-weight: 600;
-        font-family: "Poppins", sans-serif; }
+        font-family: "Encode Sans Expanded", sans-serif; }
       .testimonial_style--5 .content .testimonial-info .clint-info span {
         color: rgba(255, 255, 255, 0.6);
         font-weight: 500;
         line-height: 1.58;
         font-size: 18px;
-        font-family: "Poppins", sans-serif; }
+        font-family: "Encode Sans Expanded", sans-serif; }
 
 @media only screen and (max-width: 767px) {
   .testimonial_style--5 .content p {
@@ -15295,7 +15295,7 @@ Breadcaump Area
   font-weight: 600;
   line-height: 1.41;
   font-size: 32px;
-  font-family: "Poppins", sans-serif; }
+  font-family: "Encode Sans Expanded", sans-serif; }
   .breadcaump-area.breadcaump-title-bar .breadcaump-inner .heading.heading-h1 {
     font-weight: 600;
     line-height: 1.41;
@@ -15327,7 +15327,7 @@ Breadcaump Area
       -webkit-transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
       -o-transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
       transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
-      font-family: "Poppins", sans-serif; }
+      font-family: "Encode Sans Expanded", sans-serif; }
       .breadcaump-area.breadcaump-title-bar .breadcaump-inner .breadcrumb-insite ul.core-breadcaump li a::after {
         content: "";
         width: 0;
@@ -15701,7 +15701,7 @@ Breadcaump Area
         color: #ffffff;
         border-color: #0038E3;
         background-color: #0038E3;
-        font-family: "Poppins", sans-serif;
+        font-family: "Encode Sans Expanded", sans-serif;
         height: 55px;
         line-height: 53px;
         outline: none;
@@ -15867,7 +15867,7 @@ Start Dropdown Menu
       border: 0 solid transparent;
       border-bottom: 1px solid #444;
       color: #ffffff;
-      font-family: "Poppins", sans-serif; }
+      font-family: "Encode Sans Expanded", sans-serif; }
     .mega__width--fullscreen .mega__list li a span {
       position: relative;
       padding: 2px 0;
@@ -16006,7 +16006,7 @@ Typography Area
 
 .heading {
   color: #222222;
-  font-family: "Poppins", sans-serif;
+  font-family: "Encode Sans Expanded", sans-serif;
   font-weight: 600;
   letter-spacing: 0em;
   line-height: 1.23;
@@ -16284,7 +16284,7 @@ p.bk_pra {
   font-weight: 500;
   line-height: 1.58;
   font-size: 14px;
-  font-family: "Poppins", sans-serif; }
+  font-family: "Encode Sans Expanded", sans-serif; }
   @media only screen and (max-width: 767px) {
     p.bk_pra br {
       display: none; } }
@@ -16408,7 +16408,7 @@ p.bk_pra {
     font-weight: 600;
     line-height: 1.625;
     color: #222222;
-    font-family: "Poppins", sans-serif;
+    font-family: "Encode Sans Expanded", sans-serif;
     font-style: normal; }
 
 /*==========================
@@ -17113,7 +17113,7 @@ Dividers Area
     font-weight: 500;
     line-height: 1.58;
     font-size: 14px;
-    font-family: "Poppins", sans-serif; }
+    font-family: "Encode Sans Expanded", sans-serif; }
   .message-box.bg_cat--1 {
     background: #eee; }
     .message-box.bg_cat--1 .icon {
@@ -17159,7 +17159,7 @@ Dividers Area
     padding: 0;
     font-weight: 600;
     border: 0 none;
-    font-family: "Poppins", sans-serif;
+    font-family: "Encode Sans Expanded", sans-serif;
     -webkit-appearance: none;
     display: block;
     background: #f7f7f7;
@@ -17191,7 +17191,7 @@ Dividers Area
   letter-spacing: 0em;
   line-height: 1.58;
   font-size: 14px;
-  font-family: "Poppins", sans-serif;
+  font-family: "Encode Sans Expanded", sans-serif;
   border: 0 none;
   -webkit-box-shadow: 0 20px 40px rgba(0, 0, 0, 0.07);
   box-shadow: 0 20px 40px rgba(0, 0, 0, 0.07);
@@ -17218,7 +17218,7 @@ Dividers Area
     padding: 0;
     font-weight: 600;
     border: 0 none;
-    font-family: "Poppins", sans-serif;
+    font-family: "Encode Sans Expanded", sans-serif;
     -webkit-appearance: none;
     display: block;
     position: relative;
@@ -17252,7 +17252,7 @@ Dividers Area
   font-weight: 500;
   line-height: 1.58;
   font-size: 14px;
-  font-family: "Poppins", sans-serif;
+  font-family: "Encode Sans Expanded", sans-serif;
   border: 0 none;
   -webkit-box-shadow: inherit;
   box-shadow: inherit;
@@ -17941,7 +17941,7 @@ body.loaded .page-loading {
         margin: 0;
         font-weight: 600;
         letter-spacing: 0em;
-        font-family: "Poppins", sans-serif; }
+        font-family: "Encode Sans Expanded", sans-serif; }
         @media only screen and (max-width: 767px) {
           .portfolio.portfolio_style--1 .port-overlay-info .hover-action h3.post-overlay-title {
             font-size: 20px; } }
@@ -18692,7 +18692,7 @@ body.loaded .page-loading {
         -ms-flex-positive: 1;
         flex-grow: 1;
         font-weight: 600;
-        font-family: "Poppins", sans-serif; }
+        font-family: "Encode Sans Expanded", sans-serif; }
         .portfolio-cation .port-overlay-info .hover-action .post-overlay-title a {
           color: #222222; }
       .portfolio-cation .port-overlay-info .hover-action .category {
@@ -18749,7 +18749,7 @@ body.loaded .page-loading {
       -o-transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
       transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
       font-weight: 600;
-      font-family: "Poppins", sans-serif; }
+      font-family: "Encode Sans Expanded", sans-serif; }
       .messonry-button button span.filter-counter::before {
         position: absolute;
         right: 0;
@@ -19209,7 +19209,7 @@ Has Center
           -webkit-transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
           -o-transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
           transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
-          font-family: Poppins, Helvetica, Arial, sans-serif;
+          font-family: Encode Sans Expanded, Helvetica, Arial, sans-serif;
           font-weight: 600; }
           @media only screen and (min-width: 992px) and (max-width: 1199px) {
             .portfolio-type2-content .type-portfolio-wrapper-2 .type-portfolio2 h3 a {
@@ -20567,7 +20567,7 @@ Blog Main Quote
   margin-bottom: 20px;
   padding-bottom: 11px;
   border-bottom: 1px solid #eee;
-  font-family: "Poppins", sans-serif;
+  font-family: "Encode Sans Expanded", sans-serif;
   font-weight: 600;
   line-height: 1.23;
   color: #222222; }
@@ -20731,7 +20731,7 @@ Shop Sidebar
   margin-bottom: 20px;
   padding-bottom: 11px;
   border-bottom: 1px solid #eee;
-  font-family: "Poppins", sans-serif;
+  font-family: "Encode Sans Expanded", sans-serif;
   font-weight: 600;
   line-height: 1.23;
   color: #222222; }
@@ -22800,7 +22800,7 @@ Main Components
       font-weight: 600;
       line-height: 1.18;
       font-size: 16px;
-      font-family: "Poppins", sans-serif;
+      font-family: "Encode Sans Expanded", sans-serif;
       color: #0038E3;
       padding-top: 41px;
       padding-bottom: 41px;
@@ -23779,7 +23779,7 @@ header.br_header.header-default.header-fixed {
       font-size: 18px;
       line-height: 1.4;
       margin-bottom: 21px;
-      font-family: "Poppins", sans-serif;
+      font-family: "Encode Sans Expanded", sans-serif;
       font-weight: 600;
       margin: 0 0 18px; }
     .single-motive-speach .content p {
@@ -25534,7 +25534,7 @@ Shop Slide Area
     .product .product-info .price span {
       display: inline-block;
       color: #333333;
-      font-family: "Poppins", sans-serif; }
+      font-family: "Encode Sans Expanded", sans-serif; }
       .product .product-info .price span.new-price {
         color: #d5382c; }
 
@@ -25671,7 +25671,7 @@ Shop Slide Area
           -ms-transform: translateX(-50%);
           transform: translateX(-50%); }
         .product .product-thumbnail .product-action .action-list.tooltip-layout li a[class*=hint--][aria-label]:after {
-          font-family: "Poppins", sans-serif;
+          font-family: "Encode Sans Expanded", sans-serif;
           font-weight: 600;
           line-height: 1.23;
           content: attr(aria-label); }
@@ -26137,7 +26137,7 @@ Prresentation Area
   border-bottom-color: rgba(0, 0, 0, 0);
   margin-bottom: 19px;
   padding-bottom: 13px;
-  font-family: "Poppins", sans-serif; }
+  font-family: "Encode Sans Expanded", sans-serif; }
 
 .footer-widget .footer-menu ul.ft-menu-list {
   list-style: none;
@@ -26208,7 +26208,7 @@ Prresentation Area
     color: #fff; }
 
 .footer-widget.text-var--2 .footer-menu ul.ft-menu-list li a {
-  font-family: "Poppins", sans-serif;
+  font-family: "Encode Sans Expanded", sans-serif;
   font-size: 14px;
   font-weight: 500;
   letter-spacing: 0em;
@@ -26217,11 +26217,11 @@ Prresentation Area
 .footer-widget.text-var--2 .footer-address p {
   font-size: 14px;
   font-weight: 500;
-  font-family: "Poppins", sans-serif; }
+  font-family: "Encode Sans Expanded", sans-serif; }
   .footer-widget.text-var--2 .footer-address p a {
     font-size: 14px;
     font-weight: 500;
-    font-family: "Poppins", sans-serif; }
+    font-family: "Encode Sans Expanded", sans-serif; }
 
 .footer-widget.news-bulletin .heading {
   color: #999; }
@@ -26317,11 +26317,11 @@ Prresentation Area
     color: #fff; }
 
 .copyright.text-var-2 .copyright-left ul.bk-copyright-menu li a {
-  font-family: "Poppins", sans-serif;
+  font-family: "Encode Sans Expanded", sans-serif;
   font-size: 14px; }
 
 .copyright.text-var-2 .copyright-right p {
-  font-family: "Poppins", sans-serif; }
+  font-family: "Encode Sans Expanded", sans-serif; }
 
 .copyright.copyright--2 .copyright-left p {
   margin: 0;
@@ -44686,50 +44686,50 @@ body.template-font-1 .h3,
 body.template-font-1 .h4,
 body.template-font-1 .h5,
 body.template-font-1 .h6 {
-  font-family: "Poppins", sans-serif; }
+  font-family: "Encode Sans Expanded", sans-serif; }
 
 body.template-font-1 .heading.font-reenie {
   font-family: 'Reenie Beanie', cursive; }
 
 body.template-font-1 .mini-cart .shopping-cart .shop-inner ul.product-list li .content .inner h4 {
-  font-family: "Poppins", sans-serif; }
+  font-family: "Encode Sans Expanded", sans-serif; }
 
 body.template-font-1 .mega__width--fullscreen .mega__list li a span {
-  font-family: "Poppins", sans-serif; }
+  font-family: "Encode Sans Expanded", sans-serif; }
 
 body.template-font-1 .mainmenu-wrapper .page_nav ul.mainmenu li.lavel-1 > a span {
-  font-family: "Poppins", sans-serif; }
+  font-family: "Encode Sans Expanded", sans-serif; }
 
 body.template-font-1 .footer-widget .footer-menu ul.ft-menu-list li a {
-  font-family: "Poppins", sans-serif; }
+  font-family: "Encode Sans Expanded", sans-serif; }
 
 body.template-font-1 .copyright ul.bk-copyright-menu li a {
-  font-family: "Poppins", sans-serif; }
+  font-family: "Encode Sans Expanded", sans-serif; }
 
 body.template-font-1 .copyright .copyright-right p {
-  font-family: "Poppins", sans-serif; }
+  font-family: "Encode Sans Expanded", sans-serif; }
 
 body.template-font-1 .footer-widget .footer-address p {
-  font-family: "Poppins", sans-serif; }
+  font-family: "Encode Sans Expanded", sans-serif; }
 
 body.template-font-1 .form-style--1 .input-box input,
 body.template-font-1 .form-style--1 .input-box textarea {
-  font-family: "Poppins", sans-serif; }
+  font-family: "Encode Sans Expanded", sans-serif; }
 
 body.template-font-1 .testimonial_style--1 .content p {
-  font-family: "Poppins", sans-serif; }
+  font-family: "Encode Sans Expanded", sans-serif; }
 
 body.template-font-1 .testimonial_style--1 .content .testimonial-info .clint-info span {
-  font-family: "Poppins", sans-serif; }
+  font-family: "Encode Sans Expanded", sans-serif; }
 
 body.template-font-1 .service.service--1 .content p {
-  font-family: "Poppins", sans-serif; }
+  font-family: "Encode Sans Expanded", sans-serif; }
 
 body.template-font-1 .service.service--2 .content h4 {
-  font-family: "Poppins", sans-serif; }
+  font-family: "Encode Sans Expanded", sans-serif; }
 
 body.template-font-1 .service.service--2 .content p {
-  font-family: "Poppins", sans-serif; }
+  font-family: "Encode Sans Expanded", sans-serif; }
 
 body.template-font-2 .heading,
 body.template-font-2 h1,
@@ -45173,7 +45173,7 @@ body.template-font-8 .service.service--2 .content p {
       padding: 0 15px; }
       .pv-service-wrapper .single-grid .inner h4 {
         font-size: 20px;
-        font-family: "Poppins", sans-serif;
+        font-family: "Encode Sans Expanded", sans-serif;
         line-height: 1.4;
         margin-bottom: 0;
         word-wrap: break-word;
